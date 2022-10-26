@@ -38,7 +38,7 @@ scmVersion {
         }
     }
 }
-project.version = scmVersion.version
+project.version = "1.0.7"
 
 configurations{
     //declare custom pluginLibs configuration to include only libs for this plugin
